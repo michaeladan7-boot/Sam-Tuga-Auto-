@@ -232,13 +232,13 @@ textarea {
     display: flex;
     align-items: center;
     overflow: hidden;
-    background: #171a1d url('https://images.pexels.com/photos/4489732/pexels-photo-4489732.jpeg?auto=compress&cs=tinysrgb&w=2200') center 54%/cover no-repeat;
+    background: #c0c6cc41 url('https://images.pexels.com/photos/4489732/pexels-photo-4489732.jpeg?auto=compress&cs=tinysrgb&w=2200') center 54%/cover no-repeat;
 }
 
 .hero-shade {
     position: absolute;
     inset: 0;
-    background: linear-gradient(90deg, rgba(9, 11, 13, .96) 0%, rgba(9, 11, 13, .84) 43%, rgba(9, 11, 13, .35) 100%), linear-gradient(0deg, rgba(9, 11, 13, .4), transparent 40%);
+    background: linear-gradient(90deg, rgba(9, 11, 13, 0.74) 0%, rgba(9, 11, 13, 0.486) 43%, rgba(9, 11, 13, .35) 100%), linear-gradient(0deg, rgba(9, 11, 13, .4), transparent 40%);
 }
 
 .hero-content {
