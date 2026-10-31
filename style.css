@@ -238,7 +238,7 @@ textarea {
 .hero-shade {
     position: absolute;
     inset: 0;
-    background: linear-gradient(90deg, rgba(9, 11, 13, 0.74) 0%, rgba(9, 11, 13, 0.486) 43%, rgba(9, 11, 13, .35) 100%), linear-gradient(0deg, rgba(9, 11, 13, .4), transparent 40%);
+    background: linear-gradient(90deg, rgba(9, 11, 13, 0.651) 0%,rgba(9, 11, 13, 0.514)) 43%, rgba(9, 11, 13, .35) 100%), linear-gradient(0deg, rgba(9, 11, 13, .4), transparent 40%);
 }
 
 .hero-content {
